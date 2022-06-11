@@ -390,6 +390,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlay \
     FrameworksCustomChime \
     FrameworksResChime \
+    SettingsProviderChime \
     SettingsResChime \
     SystemUIResChime \
     TelephonyResChime \
