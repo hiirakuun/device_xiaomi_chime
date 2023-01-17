@@ -25,7 +25,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/xiaomi \
     hardware/google/interfaces \
-    hardware/google/pixel
+    hardware/google/pixel \
     vendor/qcom/opensource/usb/etc
 
 # Flatten APEXs for performance
